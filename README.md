@@ -5,7 +5,7 @@ Force the v8 engine to run garbage collection from within a node app.
 
 ### Install
 
-    $ node-waf configure build
+    $ node-waf configure
     $ node-waf build
 
 This will create a `gc.node` binary that you should place in the 
